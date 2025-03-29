@@ -34,4 +34,5 @@ Churn Rate vs. Credit Score: Categorize customers into credit score ranges and u
 ## Conclusion:
 A comprehensive analysis offers a clear understanding of churn status by gender along with overall customer count, provides insightful visualizations that reveal churn rates and their relationship with credit scores, and identifies the key factors contributing to customer attrition.
 
+
 <img width="592" alt="image" src="https://github.com/user-attachments/assets/80d79783-7e94-4281-ad0e-0bfc8a9bb036" />
